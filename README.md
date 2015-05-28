@@ -1,7 +1,6 @@
 # MyStory
-A story created collaborative with my friends
-
-Guidelines
-Only one line added 
-Cannot finish the sentence with a full stop 
-Must include something really stupid 
+A story created by crazy people
+* Guidelines:
+* Only Two lines added at a time
+* Must include something really stupid and outrageous ie. Character, action, setting etc
+* 
